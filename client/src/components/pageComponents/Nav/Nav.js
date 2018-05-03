@@ -23,13 +23,13 @@ const Nav = () => (
 
           <div className="collapse navbar-collapse" id="myNavbar">
             <ul className="nav navbar-nav navbar-right">
-              <li><Link to="#myCarousel">HOME</Link></li>
-                <li><Link to="#">SPONSORS</Link></li>
-              <li><Link to="#memberships">MEMBERSHIP</Link></li>
-              <li><Link to="#newEvents">EVENTS</Link></li>
-              <li><Link to="#boardmembers">LEADERSHIP</Link></li>
-              <li><Link to="#contact">CONTACT</Link></li>
-              <li><a href ="https://ens-final.herokuapp.com/">MEMBERS<span className="glyphicon glyphicon-lock"></span></Link></li>
+              <li>a href="#myCarousel">HOME</a></li>
+                <li><a href="#">SPONSORS</a></li>
+              <li><a href="#memberships">MEMBERSHIP</a></li>
+              <li><a href="#newEvents">EVENTS</a></li>
+              <li><a href="#boardmembers">LEADERSHIP</a></li>
+              <li><a href="#contact">CONTACT</a></li>
+              <li><a href ="https://ens-final.herokuapp.com/">MEMBERS<span className="glyphicon glyphicon-lock"></span></a></li>
 
 
               <li className="dropdown">
