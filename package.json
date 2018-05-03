@@ -12,16 +12,16 @@
     "installDeps": "yarn && cd client && yarn"
   },
   "dependencies": {
-    "firebase": "^4.12.1",
-    "react": "^16.3.0",
-    "react-dom": "^16.3.0",
-    "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.1",
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
+    "firebase": "^4.12.1",
     "google-map-react": "^1.0.0",
-    "mongoose": "^5.0.11"
+    "mongoose": "^5.0.11",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1"
   },
   "author": "",
   "license": "ISC",
