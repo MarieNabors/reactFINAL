@@ -8,7 +8,7 @@ import "./Nav.css";
 
 const Nav = () => (
 
-  const Nav = () => (
+
 
   <nav className="navbar navbar-default navbar-fixed-top">
     <div className="navbar-brand">
@@ -23,7 +23,7 @@ const Nav = () => (
 
           <div className="collapse navbar-collapse" id="myNavbar">
             <ul className="nav navbar-nav navbar-right">
-              <li>a href="#myCarousel">HOME</a></li>
+              <li>a href="#myCarousel">HOME</li>
                 <li><a href="#">SPONSORS</a></li>
               <li><a href="#memberships">MEMBERSHIP</a></li>
               <li><a href="#newEvents">EVENTS</a></li>
@@ -61,6 +61,6 @@ const Nav = () => (
   );
 
 
-);
+
 
 export default Nav;
